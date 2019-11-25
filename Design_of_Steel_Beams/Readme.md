@@ -1,1 +1,1 @@
-After downloading all the files run BTPAssemble
+After downloading all the files run "BTPAssemble.m" file
